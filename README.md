@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 [重力付き四目並べ　Gravity Four](#GravityFour)<br>
 
 <a id="Reference"></a>
-## 参考文献変換アプ　りふぁまる
+## 参考文献変換アプリ　りふぁまる
 ![Reference画像](img/refamaru.png)<br>
 **概要**<br>
 学生IT団体のハッカソンで開発した参考文献変換 Web アプリ「りふぁまる」です．卒論執筆時に参考文献作成の手間を感じたことがきっかけで制作しました．研究報告・論文・書籍・URL を入力または読み込むだけで，研究室指定の参考文献形式に自動で変換できます．変換した文献は保存・管理でき，後からまとめてコピーすることも可能です．現在は，入力不要でURLやPDFから直接変換できる機能を継続的に開発しています．
@@ -35,10 +35,10 @@ Here are some ideas to get you started:
 個人開発
 
 **使用技術**<br>
-Next.js，TypeScript，Tailwindcss，shadcn
+Next.js，TypeScript，Tailwindcss，shadcn，Supabase
 
 **製作期間**<br>
-2日
+1ヶ月
 
 <a id="PUMP"></a>
 ## Chrome拡張機能　PUMP -PopUpMemoPad-
@@ -65,7 +65,7 @@ HTML，CSS，JavaScript
 バックエンド
 
 **使用技術**<br>
-HTML，CSS，JavaScript
+HTML，CSS，JavaScript，Firebase
 
 **製作期間**<br>
 6ヶ月
