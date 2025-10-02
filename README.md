@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 個人開発
 
 **使用技術**<br>
-Next.js，TypeScript，Tailwindcss，shadcn，Supabase
+Next.js，TypeScript，Tailwind CSS，shadcn/ui，Supabase
 
 **製作期間**<br>
 1ヶ月
